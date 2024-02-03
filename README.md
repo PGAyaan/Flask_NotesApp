@@ -5,4 +5,4 @@ This is my first endevour into web development. I coded this in python using the
 1) User account management and login
 2) Ability to save, add and delete notes
 3) Stores user data on a local database
-4) Encrypts user password when account is created to protect data during breaches and to add security. 
+4) Uses SHA256 hashing algorithm for added security.
